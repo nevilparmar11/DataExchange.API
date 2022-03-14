@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "a6TrLLzXFy5GveVBaHd7bjl5GPfLk1zaCvWNyENDvKH79Q+flANMksnPshcopKZA+HwmqG/VFMlB9MesYfbXdw==",
+  "success": true,
+  "projectFilePath": "N:\\Github Repos\\DataExchange.API\\DataExchange.API\\DataExchange.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nevil\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.13\\microsoft.aspnetcore.jsonpatch.5.0.13.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.13\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.13.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\5.0.0\\microsoft.extensions.fileproviders.embedded.5.0.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\namotion.reflection\\2.0.10\\namotion.reflection.2.0.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\njsonschema\\10.6.10\\njsonschema.10.6.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\njsonschema.yaml\\10.6.10\\njsonschema.yaml.10.6.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\nswag.annotations\\13.15.10\\nswag.annotations.13.15.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\nswag.aspnetcore\\13.15.10\\nswag.aspnetcore.13.15.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\nswag.core\\13.15.10\\nswag.core.13.15.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\nswag.core.yaml\\13.15.10\\nswag.core.yaml.13.15.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\nswag.generation\\13.15.10\\nswag.generation.13.15.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\nswag.generation.aspnetcore\\13.15.10\\nswag.generation.aspnetcore.13.15.10.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\nevil\\.nuget\\packages\\yamldotnet\\11.2.1\\yamldotnet.11.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\bin\Debug\netcoreapp3.1\DataExchange.Events.deps.json
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\bin\Debug\netcoreapp3.1\DataExchange.Events.dll
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\bin\Debug\netcoreapp3.1\DataExchange.Events.pdb
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.csproj.AssemblyReference.cache
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.AssemblyInfoInputs.cache
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.AssemblyInfo.cs
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.csproj.CoreCompileInputs.cache
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.dll
+C:\Users\nevil\Desktop\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.pdb
