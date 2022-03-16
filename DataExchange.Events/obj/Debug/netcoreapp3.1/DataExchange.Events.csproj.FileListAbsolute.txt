@@ -17,3 +17,4 @@ N:\Github Repos\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\Dat
 N:\Github Repos\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.csproj.CoreCompileInputs.cache
 N:\Github Repos\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.dll
 N:\Github Repos\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.pdb
+N:\Github Repos\DataExchange.API\DataExchange.Events\obj\Debug\netcoreapp3.1\DataExchange.Events.csproj.AssemblyReference.cache

@@ -13,7 +13,7 @@ namespace DataExchange.Events.Employee
             return GetEmployeeId(Employee.EmployeeId);
         }
 
-        private string GetEmployeeId(int Id = 1)
+        private string GetEmployeeId(int Id)
         {
             return "APP" + "-" + Id;
         }
