@@ -44,25 +44,6 @@ namespace DataExchange.API
                 {
                     document.Info.Title = "Data Exchange";
                 };
-
-                //config.AddSecurity("oauth2", Enumerable.Empty<string>(), new OpenApiSecurityScheme
-                //{
-                //    Type = OpenApiSecuritySchemeType.OAuth2,
-                //    Description = "DataExchange ClientCredentials Authorization",
-                //    Flows = new OpenApiOAuthFlows
-                //    {
-                //        ClientCredentials = new OpenApiOAuthFlow
-                //        {
-                //            TokenUrl = Configuration.GetValue<string>("TokenUrl"),
-                //            Scopes = new Dictionary<string, string>
-                //            {
-                //                { "write:dex", "DataExchange access write operations" }
-                //            }
-                //        }
-                //    }
-                //});
-
-                //config.OperationProcessors.Add(new AspNetCoreOperationSecurityScopeProcessor("oauth2"));
             });
         }
 
